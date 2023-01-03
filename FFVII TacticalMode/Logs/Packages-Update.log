@@ -1,0 +1,23 @@
+
+=== Tue Dec 20 17:33:50 2022
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.ide.visualstudio@2.0.16
+The following packages were updated:
+  com.unity.animation.rigging from version 0.2.6-preview to 1.1.1
+  com.unity.cinemachine from version 2.5.0 to 2.8.9
+  com.unity.collab-proxy from version 1.2.16 to 1.17.7
+  com.unity.ext.nunit from version 1.0.0 to 1.0.6
+  com.unity.ide.rider from version 1.1.4 to 3.0.16
+  com.unity.ide.vscode from version 1.1.4 to 1.2.5
+  com.unity.postprocessing from version 2.1.7 to 3.2.2
+  com.unity.recorder from version 2.0.3-preview.1 to 3.0.3
+  com.unity.render-pipelines.high-definition from version 7.1.8 to 12.1.8
+  com.unity.test-framework from version 1.1.11 to 1.1.31
+  com.unity.textmeshpro from version 2.0.1 to 3.0.6
+  com.unity.timeline from version 1.2.12 to 1.6.4
+The following packages were removed:
+  com.unity.package-manager-ui@2.2.0
